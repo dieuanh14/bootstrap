@@ -29,6 +29,18 @@ body{
     margin-bottom: 30px;
 
 }
+.carousel{
+    margin-bottom: 50px;
+    background: #512DA8;
+}
+.carousel-item{
+    height: 900px;
+}
+.carousel-item img{
+    min-height: 100%;
+    max-width: 100%;
+    margin: auto;
+}
 
 @media screen and (max-width: 800px) {
     .row-2 p {
