@@ -29,7 +29,7 @@ body{
     margin-bottom: 30px;
 
 }
-.carousel{
+#myCarousel{
     margin-bottom: 50px;
     background: #512DA8;
 }
@@ -40,6 +40,10 @@ body{
     min-height: 100%;
     max-width: 100%;
     margin: auto;
+}
+#carouselButton{
+    margin: auto;
+    z-index: 1;
 }
 
 @media screen and (max-width: 800px) {
